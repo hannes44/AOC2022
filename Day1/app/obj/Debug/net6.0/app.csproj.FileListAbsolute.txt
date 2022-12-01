@@ -1,0 +1,15 @@
+c:\Users\hanne\Desktop\AOC2022\AOC2022\Day1\app\bin\Debug\net6.0\app.exe
+c:\Users\hanne\Desktop\AOC2022\AOC2022\Day1\app\bin\Debug\net6.0\app.deps.json
+c:\Users\hanne\Desktop\AOC2022\AOC2022\Day1\app\bin\Debug\net6.0\app.runtimeconfig.json
+c:\Users\hanne\Desktop\AOC2022\AOC2022\Day1\app\bin\Debug\net6.0\app.dll
+c:\Users\hanne\Desktop\AOC2022\AOC2022\Day1\app\bin\Debug\net6.0\app.pdb
+c:\Users\hanne\Desktop\AOC2022\AOC2022\Day1\app\obj\Debug\net6.0\app.csproj.AssemblyReference.cache
+c:\Users\hanne\Desktop\AOC2022\AOC2022\Day1\app\obj\Debug\net6.0\app.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\hanne\Desktop\AOC2022\AOC2022\Day1\app\obj\Debug\net6.0\app.AssemblyInfoInputs.cache
+c:\Users\hanne\Desktop\AOC2022\AOC2022\Day1\app\obj\Debug\net6.0\app.AssemblyInfo.cs
+c:\Users\hanne\Desktop\AOC2022\AOC2022\Day1\app\obj\Debug\net6.0\app.csproj.CoreCompileInputs.cache
+c:\Users\hanne\Desktop\AOC2022\AOC2022\Day1\app\obj\Debug\net6.0\app.dll
+c:\Users\hanne\Desktop\AOC2022\AOC2022\Day1\app\obj\Debug\net6.0\refint\app.dll
+c:\Users\hanne\Desktop\AOC2022\AOC2022\Day1\app\obj\Debug\net6.0\app.pdb
+c:\Users\hanne\Desktop\AOC2022\AOC2022\Day1\app\obj\Debug\net6.0\app.genruntimeconfig.cache
+c:\Users\hanne\Desktop\AOC2022\AOC2022\Day1\app\obj\Debug\net6.0\ref\app.dll
