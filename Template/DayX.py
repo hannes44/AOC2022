@@ -1,4 +1,3 @@
-from enum import Enum
 def parseInput():
     with open("input.txt", "r") as f:
         input = f.readlines()
