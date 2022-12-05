@@ -2,8 +2,7 @@ from functools import reduce
 def parseInput():
     with open("input.txt", "r") as f:
         input = f.readlines()
-        inputLines = [line.strip() for line in input]
-        inputLines = [line.replace('-',',').split(",") for line in inputLines]
+        inputLines = [line.strip().replace('-',',').split(",") for line in input]
         return inputLines
 
 def partOne():
