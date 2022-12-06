@@ -1,0 +1,1 @@
+x=open("i").read();f=lambda s:[i+s for i in range(len(x))if len(set(x[i:i+s]))==s][0];print(f(4),f(14))
