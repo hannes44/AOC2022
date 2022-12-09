@@ -26,7 +26,38 @@ def partOne():
     print(len(set(visibleCordinates)))
 def partTwo():
     input = parseInput()
-
+    allScore = []
+    for i, row in enumerate(input):
+        for j, col in enumerate(row):
+            totalScoreForCord = 0
+            currentValue = input[i][j]
+            score = 0
+            for y in reversed(row[0:j]):
+                score += 1
+                if y >= currentValue:
+                    break
+            totalScoreForCord += score
+            score = 0
+            for y in row[j+1:]:
+                score += 1
+                if y >= currentValue:
+                    break
+            totalScoreForCord *= score
+            score = 0
+            for y in reversed([input[x][j] for x in range(len(input))][0:i]):
+                score += 1
+                if y >= currentValue:
+                    break
+            totalScoreForCord *= score
+            score = 0
+            for y in [input[x][j] for x in range(len(input))][i+1:]:
+                score += 1
+                if y >= currentValue:
+                    break
+            totalScoreForCord *= score
+            score = 0
+            allScore.append(totalScoreForCord)
+    print(max(allScore))
     
 partOne()
 partTwo()
